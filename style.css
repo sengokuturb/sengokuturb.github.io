@@ -1,13 +1,12 @@
 html{
 	
    cursor: url('images/giraffe.png'), auto;
-	
 }
 
 body {
          background-image: url("images/bgidea3.png");
-		background-attachment: fixed;
-		  background-size: 20%;
+		/* background-attachment: fixed;*/
+		  background-size: 40%;
          text-align: center;
          font-family: PC-98;
          }
